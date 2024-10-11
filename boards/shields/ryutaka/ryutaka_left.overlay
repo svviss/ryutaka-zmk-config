@@ -1,4 +1,4 @@
-#include "Ryutaka.dtsi"
+#include "ryutaka.dtsi"
 
 &kscan0 {
     col-gpios

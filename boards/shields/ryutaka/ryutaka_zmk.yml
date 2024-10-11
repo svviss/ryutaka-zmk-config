@@ -1,0 +1,12 @@
+file_format: "1"
+id: ryutaka
+name: ryutaka
+type: shield
+url: https://github.com/svviss/ryutaka/
+requires: [pro_micro]
+features:
+  - keys
+  - pointer
+siblings:
+  - ryutaka_left
+  - ryutaka_right
