@@ -1,0 +1,5 @@
+config SHIELD_RYUTAKA_LEFT
+    def_bool $(shields_list_contains,ryutaka_left)
+
+config SHIELD_RYUTAKA_RIGHT
+    def_bool $(shields_list_contains,ryutaka_right)
